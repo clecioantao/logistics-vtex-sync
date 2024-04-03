@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: logistics-vtex-sync
-  file_path: Dockerfile
+  file_path: devops/Dockerfile
   description: Testes
 spec:
   lifecycle: production
